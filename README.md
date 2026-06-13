@@ -1,4 +1,5 @@
 #Introduction
+
 Hi, I'm Umar Draz
 Computer Science student passionate about Backend Development, Java, Spring Boot, Data Structures & Algorithms, and Software Engineering. Currently building Java-based applications and exploring cloud technologies while pursuing a Bachelor's degree in Computer Science. I enjoy transforming ideas into practical software solutions and continuously improving my problem-solving skills.
 
