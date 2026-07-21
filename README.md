@@ -29,9 +29,9 @@ OOP | DSA | REST APIs | Database Design | Problem Solving
 . Continuously improve software engineering skills
 . Pursue opportunities in backend and full-stack development
 
-##Featured Projects
+### Featured Projects
 Currently evaluating and refining ideas for my Final Year Project to ensure it addresses a meaningful real-world problem. Project repositories will be published here as development progresses.
 
-##Connect With Me
+### Connect With Me
 Email: umar.draz9214@gmail.com
 LinkedIn: https://pk.linkedin.com/in/umar-draz-920391289
