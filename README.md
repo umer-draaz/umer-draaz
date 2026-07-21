@@ -1,14 +1,13 @@
-#Introduction
+### Introduction
 
 Hi, I'm Umar Draz
 Computer Science student passionate about Backend Development, Java, Spring Boot, Data Structures & Algorithms, and Software Engineering. Currently building Java-based applications and exploring cloud technologies while pursuing a Bachelor's degree in Computer Science. I enjoy transforming ideas into practical software solutions and continuously improving my problem-solving skills.
 
-##About Me
+### About Me
 
 - BS Computer Science Student
 - Backend Development Enthusiast
 - Currently learning Spring Boot, APIs, DSA, and System Design
-- Working on a Bioinformatics Research FYP
 - Interested in Cloud Computing and Distributed Systems
 - Goal: Become a Software Engineer and pursue a Master's in Cloud Computing
 
@@ -23,7 +22,8 @@ Spring Boot | Spring Data JPA | Git | GitHub | MySQL | WordPress | VS Code
 ### Concepts
 OOP | DSA | REST APIs | Database Design | Problem Solving
 
-###Goals
+### Goals
+
 . Build production-quality software
 . Contribute to open-source projects
 . Continuously improve software engineering skills
