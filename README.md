@@ -23,23 +23,15 @@ Spring Boot | Spring Data JPA | Git | GitHub | MySQL | WordPress | VS Code
 ### Concepts
 OOP | DSA | REST APIs | Database Design | Problem Solving
 
+###Goals
+. Build production-quality software
+. Contribute to open-source projects
+. Continuously improve software engineering skills
+. Pursue opportunities in backend and full-stack development
+
 ##Featured Projects
-
-### Pharmacogenomics Research Project
-Analyzing genomic data and designing software solutions for bioinformatics research.
-
-### Spring Boot Backend Services
-Built RESTful APIs using Spring Boot and Spring Data JPA.
-
-### Loan Default Prediction System
-GUI-based Python application integrated with AI APIs to predict loan default risk.
-
-### Statistical Analysis Application
-Console-based C++ application for statistical and regression analysis.
+Currently evaluating and refining ideas for my Final Year Project to ensure it addresses a meaningful real-world problem. Project repositories will be published here as development progresses.
 
 ##Connect With Me
 Email: umar.draz9214@gmail.com
-
-GitHub: https://github.com/umer-draaz
-
 LinkedIn: https://pk.linkedin.com/in/umar-draz-920391289
